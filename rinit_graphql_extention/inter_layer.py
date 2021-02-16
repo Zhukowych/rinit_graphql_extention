@@ -4,7 +4,7 @@ from django.contrib.auth.models import AnonymousUser
 from graphene import Schema
 from graphql import GraphQLError
 from graphene import Mutation
-from mutaions_commits.models import MutationCommit
+from .models import MutationCommit
 import re
 import functools
 
