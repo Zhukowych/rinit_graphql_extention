@@ -8,12 +8,11 @@ setup(
   author = 'Max Zhuk',
   author_email = 'mzmzhuk@gmail.com',
   url = 'https://github.com/Zhukowych/',
-  download_url = 'https://github.com/Zhukowych/rinit_graphql_extention/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/Zhukowych/rinit_graphql_extention/archive/v_011.tar.gz',    # I explain this later on
   keywords = ['rinit_graphql_extention'], 
   install_requires=[          
           'django',
-          'graphene',
-		  'graphql'
+          'graphene'
       ],
   classifiers=[
     'Development Status :: 3 - Alpha',        
