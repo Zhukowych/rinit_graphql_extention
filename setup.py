@@ -8,7 +8,7 @@ setup(
   author = 'Max Zhuk',
   author_email = 'mzmzhuk@gmail.com',
   url = 'https://github.com/Zhukowych/',
-  download_url = 'https://github.com/Zhukowych/rinit_graphql_extention/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/Zhukowych/rinit_graphql_extention/archive/v_01.tar.gz',    # I explain this later on
   keywords = ['rinit_graphql_extention'], 
   install_requires=[          
           'django',
@@ -18,7 +18,7 @@ setup(
   classifiers=[
     'Development Status :: 3 - Alpha',        
     'Topic :: Software Development :: Build Tools',
-    'License :: OSI Approved :: gpl-3.0 License',  
+    'License :: OSI Approved :: GNU General Public License v3 (GPLv3)',  
     'Programming Language :: Python :: 3.8',
   ],
 )
